@@ -1,0 +1,6 @@
+C:\Code\RedditBot\RedditBot\bin\Debug\RedditBot.exe
+C:\Code\RedditBot\RedditBot\bin\Debug\RedditBot.pdb
+C:\Code\RedditBot\RedditBot\obj\x86\Debug\RedditBot.exe
+C:\Code\RedditBot\RedditBot\obj\x86\Debug\RedditBot.pdb
+C:\Code\RedditBot\RedditBot\obj\x86\Debug\RedditBot.csprojResolveAssemblyReference.cache
+C:\Code\RedditBot\RedditBot\bin\Debug\RedditBot.exe.config
